@@ -1,0 +1,14 @@
+<Book>
+<Title>My Book</Title>
+<Author>Isaac</Author>
+<Pages>130</Pages>
+</Book>
+<Book>
+<Title>Your Book</Title>
+<Author>Cassidy</Author>
+</Book>
+<Newspaper>
+<Title>New York Times</Title>
+<Location>New York</Location>
+<Date>01-30-2021</Date>
+</Newspaper>
